@@ -2,7 +2,7 @@
 
 Submitted by: **Manya Bondada**
 
-This web app: **Allow music lovers to commune and share their favorite songs. **
+This web app: **Allow music lovers to commune and share their favorite songs.**
 
 Time spent: **5** hours spent in total
 
@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ X Buttons or links to a related resources are on each card component
+- [X] Buttons or links to a related resources are on each card component
 
 The following **additional** features are implemented:
 
