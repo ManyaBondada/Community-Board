@@ -1,0 +1,36 @@
+.Song {
+    margin: 30px;
+    padding: 30px;
+    align-items: center;
+    background-color: whitesmoke;
+    border-radius: 10px;
+  }
+  
+  .name {
+    color: teal;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+.artist {
+    color: teal;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.image {
+  width: 50%;
+  border-radius: 20px;
+  box-shadow: 0 0 10px #FFFFFF;
+}
+
+button {
+  border: none;
+  padding: 2%;
+  margin: 2%;
+  border-radius: 7px;
+  background-color: #b2bec3;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button:hover{
+  box-shadow: 0 0 30px lightblue;
+}
